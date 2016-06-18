@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "868D72F8D0771FF152524C269D910D1AF6180035",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0,
+    "868D72F8D0771FF152524C269D910D1AF6180035" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DAFA7744-96C2-4FF3-825D-368D642F4080",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : "",
+    "868D72F8D0771FF152524C269D910D1AF6180035" : "objc-NavigationControllers-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NavigationControllers",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NavigationControllers.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-NavigationControllers-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "868D72F8D0771FF152524C269D910D1AF6180035"
+    }
+  ]
+}
